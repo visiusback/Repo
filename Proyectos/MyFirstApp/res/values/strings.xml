@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">My First app</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Me arrepentí!</string>
     <string name="menu_settings">Settings</string>
     <string name="edit_message">Mensaje</string>
     <string name="button_send">Enviar</string>
